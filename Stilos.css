@@ -1,0 +1,203 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+body {
+    color: black;
+    margin: 0;
+    color: black;
+    font-family:  'Shadows Into Light', cursive;
+    background-image: url('fondo.jpg');
+    width: 100%;
+    height: 720px;
+    background-repeat: no-repeat;
+}
+#comprimido {
+    background-image: url('banner.jpg');
+    
+    height: 150px;
+    line-height: 150px; 
+    
+}
+#comprimido a{
+    color: rgb(22, 19, 216);
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+#comprimido a:hover {
+    color: #222;
+}
+#header-nav {
+    display: block;
+    float: right;
+    margin-top: 0;
+}
+#header-nav li {
+    display: inline;
+    padding-left: 20px;
+    
+
+}
+.flexbox {
+    display: flex;
+    
+    
+}
+.flexbox {
+    
+    margin: 20px 20px 20px 20px;
+    justify-content: space-between;
+}
+.red{
+    flex-direction: row;
+    padding: 150 40px 40px 40px;
+    margin-top: 150px;
+}
+
+.blue{
+    flex-direction: row;
+    padding: 150px 40px 40px 40px;
+}
+.yellow{
+    flex-direction: row;
+    padding: 150px 40px 40px 40px;
+}
+.oro{
+    flex-direction: row;
+    padding: 150px 40px 40px 40px;
+}
+
+.silver {
+    flex-direction: row;
+    padding: 150px 40px 40px 40px;
+}
+.cristal{
+    flex-direction: row;
+    padding: 150px 40px 40px 40px;
+}
+
+.rubi{
+    flex-direction: row;
+    padding: 150px 40px 40px 40px;
+}
+
+
+.zafiro{
+    flex-direction: row;
+    padding: 150px 40px 40px 40px;
+}
+
+.esmeralda{
+    flex-direction: row;
+    padding: 150px 40px 40px 40px;
+
+}
+.Perla{
+    flex-direction: row;
+    padding: 150px 40px 40px 40px;
+
+}
+
+.Diamante{
+    flex-direction: row;
+    padding: 150px 40px 40px 40px;
+}
+
+.Platinum{
+    flex-direction: row;
+    padding: 150px 40px 40px 40px;
+}
+.tbox{
+    display: flex;
+    margin: 20px 20px 20px 20px;
+    justify-content: space-between;
+}
+.black{
+    flex-direction: row;
+    padding: 150px 40px 40px 40px;
+}
+.white{
+    flex-direction: row;
+    padding: 150px 40px 40px 40px;
+}
+.ybox{
+    display: flex;
+    margin: 20px 20px 20px 20px;
+    justify-content: space-between;
+}
+
+.blackdos{
+    flex-direction: row;
+    padding: 150px 40px 40px 40px;
+}
+
+.whitedos{
+    flex-direction: row;
+    padding: 150px 40px 40px 40px;
+}
+.wbox{
+    display: flex;
+    margin: 20px 20px 20px 20px;
+    justify-content: space-between;
+}
+.heartgold{
+    flex-direction: row;
+    padding: 150px 40px 40px 40px;
+}
+
+.soulsilver{
+    flex-direction: row;
+    padding: 150px 40px 40px 40px;
+}
+
+.y{
+    flex-direction: row;
+    padding: 150px 130px 40px 40px;
+}
+
+.x{
+    flex-direction: row;
+    padding: 150px 40px 40px 130px;
+}
+
+.omega{
+    flex-direction: row;
+    padding: 150px 130px 40px 40px;
+}
+.alpha{
+    flex-direction: row;
+    padding: 150px 40px 40px 130px;
+}
+.sun{
+    flex-direction: row;
+    padding: 150px 130px 40px 40px;
+}
+.mon{
+    flex-direction: row;
+    padding: 150px 40px 40px 130px;
+}
+.ultrasun{
+    flex-direction: row;
+    padding: 150px 130px 40px 40px;
+}
+.ultramoon{
+    flex-direction: row;
+    padding: 150px 40px 40px 130px;
+}
+.sword{
+    flex-direction: row;
+    padding: 150px 130px 40px 40px;
+}
+
+.shield{
+    flex-direction: row;
+    padding: 150px 40px 40px 130px;
+}
+
+.pikachu{
+    flex-direction: row;
+    padding: 150px 130px 40px 40px;
+}
+.eve{
+    flex-direction: row;
+    padding: 150px 40px 40px 130px;
+}
